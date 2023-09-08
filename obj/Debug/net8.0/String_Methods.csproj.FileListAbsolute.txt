@@ -1,0 +1,15 @@
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\obj\Debug\net8.0\String_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\obj\Debug\net8.0\String_Methods.AssemblyInfoInputs.cache
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\obj\Debug\net8.0\String_Methods.AssemblyInfo.cs
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\obj\Debug\net8.0\String_Methods.csproj.CoreCompileInputs.cache
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\obj\Debug\net8.0\String_Methods.sourcelink.json
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\bin\Debug\net8.0\String_Methods.exe
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\bin\Debug\net8.0\String_Methods.deps.json
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\bin\Debug\net8.0\String_Methods.runtimeconfig.json
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\bin\Debug\net8.0\String_Methods.dll
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\bin\Debug\net8.0\String_Methods.pdb
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\obj\Debug\net8.0\String_Methods.dll
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\obj\Debug\net8.0\refint\String_Methods.dll
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\obj\Debug\net8.0\String_Methods.pdb
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\obj\Debug\net8.0\String_Methods.genruntimeconfig.cache
+C:\Users\elliot alderson\Documents\GitHub\String_Methods\obj\Debug\net8.0\ref\String_Methods.dll
